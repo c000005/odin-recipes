@@ -1,0 +1,25 @@
+* {
+    font-family: serif, sans-serif, Arial;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+a {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 29px;
+    font-weight: bold;
+}
+
+li {
+    font-size: 22px;
+    font-weight: 100;
+}
